@@ -1,5 +1,5 @@
-name: Bug Report
-description: File a bug report.
+name: New  Pipeline
+description: Use this form to create a new pipeline
 title: "[Bug]: "
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
